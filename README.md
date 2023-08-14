@@ -1,30 +1,30 @@
 # Ruby Exercises
 
 ### Description
-This repo will contain all ruby exercises from the Ruby course on <a href="https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby" target="_blank">The Odin Project</a>
+This repo will contain all ruby exercises from the Ruby course on [The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby)
 
 ## Basic Ruby section
-<a href="https://www.theodinproject.com/lessons/ruby-caesar-cipher" target="_blank">Project: Caesar Cipher</a>  
-<a href="https://www.theodinproject.com/lessons/ruby-sub-strings" target="_blank">Project: Sub Strings</a>  
-<a href="https://www.theodinproject.com/lessons/ruby-stock-picker" target="_blank">Project: Stock Picker</a>  
-<a href="https://www.theodinproject.com/lessons/ruby-bubble-sort" target="_blank">Project: Bubble Sort</a>  
+[Project: Caesar Cipher](https://www.theodinproject.com/lessons/ruby-caesar-cipher)  
+[Project: Sub Strings](https://www.theodinproject.com/lessons/ruby-sub-strings)  
+[Project: Stock Picker](https://www.theodinproject.com/lessons/ruby-stock-picker)  
+[Project: Bubble Sort](https://www.theodinproject.com/lessons/ruby-bubble-sort)  
 
 ## Object Oriented Programming Basics section
-<a href="https://www.theodinproject.com/lessons/ruby-tic-tac-toe" target="_blank">Project: Tic Tac Toe</a>  
-<a href="https://www.theodinproject.com/lessons/ruby-mastermind" target="_blank">Project: Mastermind</a>  
+[Project: Tic Tac Toe](https://www.theodinproject.com/lessons/ruby-tic-tac-toe)  
+[Project: Mastermind](https://www.theodinproject.com/lessons/ruby-mastermind)
 
 ## Files and Serialization section
-<a href="https://www.theodinproject.com/lessons/ruby-event-manager" target="_blank">Project: Event Manager</a>  
-<a href="https://www.theodinproject.com/lessons/ruby-hangman" target="_blank">Project: Hangmen</a>
+[Project: Event Manager](https://www.theodinproject.com/lessons/ruby-event-manager)  
+[Project: Hangmen](https://www.theodinproject.com/lessons/ruby-hangman)
 
 ## Advanced Ruby section
-<a href="https://www.theodinproject.com/lessons/ruby-custom-enumerables" target="_blank">Project: Custom Enumerables</a>
+[Project: Custom Enumerables](https://www.theodinproject.com/lessons/ruby-custom-enumerables)
 
-## Computer Science section 
-<a href="https://www.theodinproject.com/lessons/ruby-recursion" target="_blank">Project: Recursion</a>  
-<a href="https://www.theodinproject.com/lessons/ruby-linked-lists" target="_blank">Project: Linked Lists</a>  
-<a href="https://www.theodinproject.com/lessons/ruby-binary-search-trees" target="_blank">Project: Binary Search Trees</a>  
-<a href="https://www.theodinproject.com/lessons/ruby-knights-travails" target="_blank">Project: Knight Travails</a>
+## Computer Science section
+[Project: Recursion](https://www.theodinproject.com/lessons/ruby-recursion)  
+[Project: Linked Lists](https://www.theodinproject.com/lessons/ruby-linked-lists)  
+[Project: Binary Search Trees](https://www.theodinproject.com/lessons/ruby-binary-search-trees)  
+[Project: Knight Travails](https://www.theodinproject.com/lessons/ruby-knights-travails)
 
 ## Testing Ruby With RSpec section
-<a href="https://www.theodinproject.com/lessons/ruby-connect-four" target="_blank">Project: Connect Four</a>
+[Project: Connect Four](https://www.theodinproject.com/lessons/ruby-connect-four)
