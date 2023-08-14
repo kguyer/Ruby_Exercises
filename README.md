@@ -11,7 +11,7 @@ This repo will contain all ruby exercises from the Ruby course on [The Odin Proj
 
 ## Object Oriented Programming Basics section
 [Project: Tic Tac Toe](https://www.theodinproject.com/lessons/ruby-tic-tac-toe)  
-[Project: Mastermind](https://www.theodinproject.com/lessons/ruby-mastermind)
+[Project: Mastermind](https://www.theodinproject.com/lessons/ruby-mastermind){:target="_blank"}
 
 ## Files and Serialization section
 [Project: Event Manager](https://www.theodinproject.com/lessons/ruby-event-manager)  
